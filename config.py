@@ -1,4 +1,4 @@
-API_TOKEN: str = ''
+API_TOKEN: str = '7617694393:AAEVtZJd_dB-O0Aqo-94bStgiWcSwSmwf9w'
 STARS_AMOUNT: int = 1
 
 MESSAGES = {
